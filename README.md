@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parhlad Singh</h1>
 <h3 align="center">🎓Engineering Student | ✨Aspiring MERN Stack Developer | 🏆hackUniv 2024 Winner</h3>
 
-<img align="right" alt="coding" width="380" src="https://github.com/Ankit-Matth/Ankit-Matth/assets/146843890/fde4cb18-e27c-46f6-a714-46cdefaa1d31">
+<img align="right" alt="coding" width="350" src="https://github.com/Ankit-Matth/Ankit-Matth/assets/146843890/fde4cb18-e27c-46f6-a714-46cdefaa1d31">
 <br>
 
 - 🎓 Doing B.Tech(CSE) from [BRCM-CET.](https://www.brcmcet.edu.in/)
