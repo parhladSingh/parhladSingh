@@ -6,7 +6,7 @@
 
 - 🎓 Doing B.Tech(CSE) from [BRCM-CET.](https://www.brcmcet.edu.in/)
 
-- 🏫 Currently, in **3rd year (6th Semester).**
+- 🏫 Currently, in **4th year (7th Semester).**
 
 - 👨‍💻 I’m am a **MERN Stack Developer.**
 
