@@ -6,7 +6,7 @@
 
 - 🎓 Doing B.Tech(CSE) from [BRCM-CET.](https://www.brcmcet.edu.in/)
 
-- 🏫 Currently, in **4th year (7th Semester).**
+- 🏫 Currently, in **4th year (8th Semester).**
 
 - 👨‍💻 I’m am a **MERN Stack Developer.**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/parhlad-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-matth" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/parhlad-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parhlad-singh" height="40" width="50" /></a>
 <a href="https://www.instagram.com/international_villager009?igsh=ZHpkOXk5bTVqbmI1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit_matth_official" height="40" width="50" /></a>
 </p>
 
