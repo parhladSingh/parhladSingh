@@ -4,9 +4,7 @@
 <img align="right" alt="coding" width="350" src="https://github.com/Ankit-Matth/Ankit-Matth/assets/146843890/fde4cb18-e27c-46f6-a714-46cdefaa1d31">
 <br>
 
-- 🎓 Doing B.Tech(CSE) from [BRCM-CET.](https://www.brcmcet.edu.in/)
-
-- 🏫 Currently, in **4th year (8th Semester).**
+- 🎓Graduated B.Tech(CSE) from [BRCM-CET.](https://www.brcmcet.edu.in/)
 
 - 👨‍💻 I’m am a **MERN Stack Developer.**
 
